@@ -1,0 +1,30 @@
+180020009@iitdh.ac.in
+Mon Mar  9 05:13:18 2020
+testing
+This example is to check code correctness
+.
+
+180020009@e
+Mon Mar  9 22:24:51 2020
+holi
+no class
+.
+
+180020009@iit.edu
+Mon Mar  9 22:26:15 2020
+another mail
+this is content
+.
+
+joshi@d
+Tue Mar 10 00:47:16 2020
+code
+done
+.
+
+180020009@iit.edu
+Tue Mar 10 01:03:23 2020
+mistake
+check
+.
+

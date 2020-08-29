@@ -1,0 +1,71 @@
+180020009@x
+Mon Mar  9 22:40:03 2020
+hi
+I am joshitha
+.
+
+joshitha@f
+Mon Mar  9 23:17:10 2020
+d
+g
+.
+
+joshitha@w
+Mon Mar  9 23:20:41 2020
+s
+s
+.
+
+joshi@e
+Mon Mar  9 23:30:53 2020
+haha
+same
+.
+
+joshitha@n
+Tue Mar 10 01:11:38 2020
+long
+ggggggggggggggggg ggggggggggggggggggggggggggggggggggg gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg ggggggggggggggggg ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+.
+
+joshitha@w
+Tue Mar 10 01:40:13 2020
+empty
+.
+
+From: joshitha@w
+Time: Tue Mar 10 01:43:33 2020
+DATA: perfect
+.
+
+From: j@w
+Time: Tue Mar 10 01:56:32 2020
+SUBJECT: empty
+.
+
+From: joshi@j
+Time: Tue Mar 10 02:14:48 2020
+SUBJECT: same
+.
+
+From: j@j
+Time: Tue Mar 10 02:16:14 2020
+SUBJECT: joshi
+.
+
+From: j@v
+Time: Tue Mar 10 02:25:36 2020
+SUBJECT: end
+.
+
+From: joshitha@iit
+Time: Tue Mar 10 02:26:44 2020
+SUBJECT: joshi
+iit
+.
+
+From: j@iit
+Time: Tue Mar 10 02:27:25 2020
+SUBJECT: empty again
+.
+
